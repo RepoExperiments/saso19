@@ -1,7 +1,7 @@
 # SASO19
 
 
-The paper results  shown at figures 10 and 11 corresponds to the following log files:
+The paper results  shown at figures 08 and 09 corresponds to the following log files:
 
 _logi_1000_NJ_s50.json and _logi_1000_YJ_s50.json for the first round to 
 
